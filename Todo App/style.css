@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+body {
+    font-family: "Mono Display", monospace;
+    font-weight: 300;
+    font-style: normal;
+    color: green;
+    margin-top: 50px !important;
+    width: calc(50% - 50px);
+    height: 500px;
+    margin: auto;
+    padding-left: 415px;
+    /* border: 2px solid; */
+    border-radius: 5px;
+    background-image: url(floral-design.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 22px;
+    background-position-x: 333px;
+    background-size: contain;
+    box-shadow: 0 4px 16px rgba(0, 128, 0, 0.5);
+}
+
+button {
+    color: whitesmoke;
+    background-color:green;
+}
