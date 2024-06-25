@@ -21,7 +21,7 @@ The Spotify Clone project aims to replicate the core features and functionalitie
 ## Project 1: [Todo App]
 
 ### Description
-The application allows users to add new tasks, mark them as done, and edit and delete tasks as well.
+The application allows users to add new tasks, mark them as done, and edit and delete tasks as well...
 
 ### Technologies Used
 - HTML
