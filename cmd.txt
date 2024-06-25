@@ -1,0 +1,352 @@
+BASIC CMD FOR TERMINAL
+----------------------
+
+1. pwd: Print Working Directory - Displays the current directory path.
+
+2. ls: List - Lists files and directories in the current directory.
+
+3. cd: Change Directory - Changes the current directory.
+
+4. mkdir: Make Directory - Creates a new directory.
+
+5. rmdir: Remove Directory - Deletes an empty directory.
+
+6. rm: Remove - Deletes files or directories.
+
+7. cp: Copy - Copies files or directories.
+
+8. mv: Move - Moves or renames files or directories.
+
+9. touch: Touch - Creates an empty file or updates the timestamp of an existing file.
+
+10. cat: Concatenate - Displays the contents of a file.
+
+11. nano/vi/vim: Text Editors - Opens a text editor to create or edit files.
+
+12. man: Manual - Displays the manual for a command.
+
+13. chmod: Change Mode - Changes file permissions.
+
+14. chown: Change Owner - Changes file ownership.
+
+15. find: Find - Searches for files and directories.
+
+16. grep: Global Regular Expression Print - Searches within files for matching patterns.
+
+17. df: Disk Free - Displays disk space usage.
+
+18. du: Disk Usage - Displays directory or file space usage.
+
+19. ps: Process Status - Displays currently running processes.
+
+20. kill: Kill - Terminates a process.
+
+21. top: Top - Displays real-time system statistics, including active processes.
+
+22. history: History - Displays the command history.
+
+23. clear: Clear - Clears the terminal screen.
+
+24. echo: Echo - Displays a line of text/string.
+
+25. wget: Web Get - Downloads files from the internet.
+
+26. curl: Curl - Transfers data from or to a server.
+
+27. tar: Tape Archive - Archives files into a tarball or extracts files from a tarball.
+
+28. zip/unzip: Zip/Unzip - Compresses files into a zip archive or extracts files from a zip archive.
+
+29. ssh: Secure Shell - Connects to a remote machine securely.
+
+30. scp: Secure Copy - Copies files between hosts on a network.
+
+31. sudo: Super User Do - Executes commands with superuser privileges.
+
+32. apt-get/yum/brew: Package Managers - Installs, updates, and manages software packages.
+
+33. ping: Ping - Checks the network connection to a server.
+
+34. ifconfig/ip: Interface Configuration - Displays or configures network interfaces.
+
+35. netstat: Network Statistics - Displays network connections, routing tables, interface statistics, etc.
+
+36. traceroute: Trace Route - Displays the route packets take to reach a network host.
+
+37. whoami: Who Am I - Displays the current logged-in username.
+
+38. uname: Unix Name - Displays system information.
+
+39. uptime: Uptime - Displays how long the system has been running.
+
+40. date: Date - Displays or sets the system date and time.
+
+41. cal: Calendar - Displays a calendar.
+
+42. alias: Alias - Creates shortcuts for commands.
+
+43. export: Export - Sets environment variables.
+
+44. env: Environment - Displays environment variables.
+
+45. head: Head - Displays the first few lines of a file.
+
+46. tail: Tail - Displays the last few lines of a file.
+
+47. sort: Sort - Sorts lines in a file.
+
+48. uniq: Unique - Filters out repeated lines in a file.
+
+49. wc: Word Count - Displays the number of lines, words, and characters in a file.
+
+50. diff: Difference - Compares files line by line.
+
+51. chmod: Change Mode - Changes file permissions.
+
+52. chgrp: Change Group - Changes group ownership of a file.
+
+53. bg: Background - Resumes a suspended job in the background.
+
+54. fg: Foreground - Brings a background job to the foreground.
+
+55. jobs: Jobs - Lists active jobs.
+
+56. exit: Exit - Closes the terminal session.
+
+57. reboot/shutdown: Reboot/Shutdown - Restarts or shuts down the system.
+
+This list covers many of the basic commands commonly used in terminal operations.
+
+
+
+BASIC CMD FOR GIT BASH
+------------------------
+### Basic Commands
+1. **`pwd`**: Print Working Directory - Displays the current directory path.
+2. **`ls`**: List - Lists files and directories in the current directory.
+3. **`cd`**: Change Directory - Changes the current directory.
+4. **`mkdir`**: Make Directory - Creates a new directory.
+5. **`rmdir`**: Remove Directory - Deletes an empty directory.
+6. **`rm`**: Remove - Deletes files or directories.
+7. **`cp`**: Copy - Copies files or directories.
+8. **`mv`**: Move - Moves or renames files or directories.
+9. **`touch`**: Touch - Creates an empty file or updates the timestamp of an existing file.
+10. **`cat`**: Concatenate - Displays the contents of a file.
+11. **`nano`**/**`vi`**/**`vim`**: Text Editors - Opens a text editor to create or edit files.
+12. **`man`**: Manual - Displays the manual for a command.
+13. **`chmod`**: Change Mode - Changes file permissions.
+14. **`chown`**: Change Owner - Changes file ownership.
+15. **`find`**: Find - Searches for files and directories.
+16. **`grep`**: Global Regular Expression Print - Searches within files for matching patterns.
+17. **`df`**: Disk Free - Displays disk space usage.
+18. **`du`**: Disk Usage - Displays directory or file space usage.
+19. **`ps`**: Process Status - Displays currently running processes.
+20. **`kill`**: Kill - Terminates a process.
+21. **`top`**: Top - Displays real-time system statistics, including active processes.
+22. **`history`**: History - Displays the command history.
+23. **`clear`**: Clear - Clears the terminal screen.
+24. **`echo`**: Echo - Displays a line of text/string.
+
+### Git Commands
+1. **`git init`**: Initialize - Creates a new Git repository.
+2. **`git clone`**: Clone - Copies an existing Git repository.
+3. **`git status`**: Status - Displays the state of the working directory and the staging area.
+4. **`git add`**: Add - Adds changes in the working directory to the staging area.
+5. **`git commit`**: Commit - Records changes to the repository.
+6. **`git diff`**: Difference - Shows changes between commits, commit and working tree, etc.
+7. **`git log`**: Log - Shows the commit logs.
+8. **`git branch`**: Branch - Lists, creates, or deletes branches.
+9. **`git checkout`**: Checkout - Switches branches or restores working tree files.
+10. **`git merge`**: Merge - Merges branches.
+11. **`git remote`**: Remote - Manages set of tracked repositories.
+12. **`git pull`**: Pull - Fetches from and integrates with another repository or a local branch.
+13. **`git push`**: Push - Updates remote refs along with associated objects.
+14. **`git fetch`**: Fetch - Downloads objects and refs from another repository.
+15. **`git reset`**: Reset - Resets current HEAD to the specified state.
+16. **`git rm`**: Remove - Removes files from the working tree and from the index.
+17. **`git stash`**: Stash - Stashes the changes in a dirty working directory away.
+18. **`git tag`**: Tag - Creates, lists, deletes, or verifies a tag object signed with GPG.
+19. **`git blame`**: Blame - Shows what revision and author last modified each line of a file.
+20. **`git show`**: Show - Shows various types of objects.
+21. **`git config`**: Config - Gets and sets repository or global options.
+22. **`git archive`**: Archive - Creates an archive of files from a named tree.
+23. **`git gc`**: Garbage Collection - Cleans up unnecessary files and optimizes the local repository.
+24. **`git bisect`**: Bisect - Uses binary search to find the commit that introduced a bug.
+25. **`git cherry-pick`**: Cherry-pick - Applies the changes introduced by some existing commits.
+26. **`git revert`**: Revert - Creates a new commit that undoes the changes made by an earlier commit.
+27. **`git tag`**: Tag - Creates a tag for a specific commit.
+28. **`git rebase`**: Rebase - Reapplies commits on top of another base tip.
+
+### Advanced Commands
+1. **`alias`**: Alias - Creates shortcuts for commands.
+2. **`export`**: Export - Sets environment variables.
+3. **`env`**: Environment - Displays environment variables.
+4. **`head`**: Head - Displays the first few lines of a file.
+5. **`tail`**: Tail - Displays the last few lines of a file.
+6. **`sort`**: Sort - Sorts lines in a file.
+7. **`uniq`**: Unique - Filters out repeated lines in a file.
+8. **`wc`**: Word Count - Displays the number of lines, words, and characters in a file.
+9. **`diff`**: Difference - Compares files line by line.
+10. **`bg`**: Background - Resumes a suspended job in the background.
+11. **`fg`**: Foreground - Brings a background job to the foreground.
+12. **`jobs`**: Jobs - Lists active jobs.
+13. **`exit`**: Exit - Closes the terminal session.
+14. **`reboot`**/**`shutdown`**: Reboot/Shutdown - Restarts or shuts down the system.
+
+This list should cover many of the basic commands you might use in Git Bash.
+
+BASIC CMD FOR POWERSHELL
+------------------------
+
+### Basic Navigation Commands
+1. **`Get-Location`** (`pwd`): Displays the current directory.
+2. **`Set-Location`** (`cd`): Changes the current directory.
+3. **`Get-ChildItem`** (`ls`/`dir`): Lists files and directories in the current directory.
+4. **`New-Item`** (`touch`/`mkdir`): Creates a new file or directory.
+5. **`Remove-Item`** (`rm`/`del`/`rmdir`): Deletes files or directories.
+6. **`Copy-Item`** (`cp`): Copies files or directories.
+7. **`Move-Item`** (`mv`): Moves or renames files or directories.
+
+### File and Directory Operations
+1. **`Get-Content`** (`cat`/`type`): Displays the contents of a file.
+2. **`Set-Content`**: Writes or replaces the content in a file.
+3. **`Add-Content`** (`echo`): Appends content to a file.
+4. **`Clear-Content`** (`> filename`): Clears the content of a file.
+5. **`Get-Item`**: Gets the item at the specified location.
+6. **`Get-ItemProperty`**: Gets the properties of the specified item.
+
+### System Information and Management
+1. **`Get-Process`** (`ps`): Displays currently running processes.
+2. **`Stop-Process`** (`kill`): Stops one or more running processes.
+3. **`Start-Process`**: Starts one or more processes on the local computer.
+4. **`Get-Service`**: Gets the status of services on a local or remote computer.
+5. **`Start-Service`**: Starts a stopped service.
+6. **`Stop-Service`**: Stops a running service.
+7. **`Restart-Service`**: Stops and then starts one or more services.
+8. **`Get-EventLog`**: Gets the events in the event log on the local or remote computers.
+
+### System Configuration
+1. **`Get-Command`**: Gets all commands.
+2. **`Get-Help`**: Displays help information about PowerShell commands.
+3. **`Get-Alias`**: Gets the aliases for the current session.
+4. **`Set-Alias`**: Creates a new alias.
+5. **`Get-History`**: Displays the command history.
+6. **`Clear-History`**: Deletes entries from the command history.
+7. **`Clear-Host`** (`cls`/`clear`): Clears the terminal screen.
+
+### Script and Job Management
+1. **`Invoke-Command`**: Runs commands on local and remote computers.
+2. **`Start-Job`**: Starts a PowerShell background job.
+3. **`Get-Job`**: Gets the status of PowerShell background jobs.
+4. **`Receive-Job`**: Gets the results of a background job.
+5. **`Stop-Job`**: Stops a PowerShell background job.
+6. **`Remove-Job`**: Deletes a PowerShell background job.
+
+### Networking
+1. **`Test-Connection`** (`ping`): Sends ICMP echo request packets (pings) to test the network connection.
+2. **`Invoke-WebRequest`** (`curl`/`wget`): Sends HTTP and HTTPS requests to web pages or web services.
+3. **`Get-NetIPAddress`**: Gets the IP address configuration.
+
+### User and Group Management
+1. **`Get-LocalUser`**: Gets local user accounts.
+2. **`New-LocalUser`**: Creates a new local user account.
+3. **`Remove-LocalUser`**: Deletes a local user account.
+4. **`Get-LocalGroup`**: Gets local security groups.
+5. **`Add-LocalGroupMember`**: Adds a user to a local security group.
+6. **`Remove-LocalGroupMember`**: Removes a user from a local security group.
+
+### Environment Variables
+1. **`Get-ChildItem Env:`**: Lists environment variables.
+2. **`$env:VariableName = "Value"`**: Sets an environment variable.
+
+### Text Processing
+1. **`Select-String`** (`grep`): Searches for text and patterns in files.
+2. **`Sort-Object`** (`sort`): Sorts objects by property values.
+3. **`Measure-Object`** (`wc`): Measures the properties of objects.
+4. **`Out-File`** (`>`): Sends output to a file.
+5. **`Out-String`**: Sends output to the console as a string.
+
+### Advanced Commands
+1. **`ForEach-Object`** (`%`): Performs an operation on each item in a collection.
+2. **`Where-Object`** (`?`): Selects objects based on property values.
+3. **`Group-Object`** (`group`): Groups objects that contain the same value for specified properties.
+4. **`Compare-Object`** (`diff`): Compares two sets of objects.
+
+This list covers many of the basic commands you might use in PowerShell.
+
+
+BASIC CMD FOR WINDOWSHELL
+-------------------------
+
+### Basic Navigation Commands
+1. **`dir`**: Lists files and directories in the current directory.
+2. **`cd`**: Change Directory - Changes the current directory.
+3. **`md` / `mkdir`**: Make Directory - Creates a new directory.
+4. **`rd` / `rmdir`**: Remove Directory - Deletes a directory.
+5. **`del`**: Delete - Deletes one or more files.
+6. **`copy`**: Copies files from one location to another.
+7. **`move`**: Moves or renames files or directories.
+8. **`ren`**: Rename - Renames a file or directory.
+
+### File and Directory Operations
+1. **`type`**: Displays the contents of a file.
+2. **`echo`**: Displays a message or turns command echoing on or off.
+3. **`more`**: Displays output one screen at a time.
+4. **`cls`**: Clears the command prompt screen.
+5. **`attrib`**: Displays or changes file attributes.
+6. **`xcopy`**: Copies files and directories, including subdirectories.
+7. **`robocopy`**: Robust File Copy - Copies files and directories with more options than `xcopy`.
+
+### System Information and Management
+1. **`tasklist`**: Displays a list of currently running processes.
+2. **`taskkill`**: Terminates a process by its process ID or image name.
+3. **`systeminfo`**: Displays detailed configuration information about the computer.
+4. **`sfc`**: System File Checker - Scans and repairs protected system files.
+5. **`chkdsk`**: Checks the file system and file system metadata of a volume for logical and physical errors.
+6. **`ipconfig`**: Displays all current TCP/IP network configuration values.
+7. **`netstat`**: Displays network connections, routing tables, interface statistics, etc.
+8. **`ping`**: Tests the network connection to a server.
+9. **`tracert`**: Trace Route - Displays the path that packets take to reach a network host.
+10. **`pathping`**: Provides information about network latency and network loss at intermediate hops between a source and destination.
+11. **`getmac`**: Displays the media access control (MAC) address for network adapters.
+12. **`hostname`**: Displays the name of the current host.
+
+### User and Group Management
+1. **`net user`**: Displays user account information and manages user accounts.
+2. **`net localgroup`**: Displays information about local groups and manages local groups.
+
+### Disk Management
+1. **`diskpart`**: Manages disk partitions.
+2. **`format`**: Formats a disk for use with Windows.
+3. **`label`**: Creates, changes, or deletes the volume label of a disk.
+4. **`vol`**: Displays a disk volume label and serial number.
+
+### Batch File and Scripting
+1. **`call`**: Calls one batch program from another.
+2. **`echo`**: Displays messages, or turns command echoing on or off.
+3. **`set`**: Displays, sets, or removes environment variables.
+4. **`pause`**: Suspends processing of a batch file and displays a message.
+5. **`goto`**: Directs the command prompt to a labeled line in a batch program.
+6. **`if`**: Performs conditional processing in batch programs.
+7. **`for`**: Runs a specified command for each file in a set of files.
+8. **`exit`**: Quits the CMD.EXE program (command interpreter).
+
+### Network Commands
+1. **`net`**: Manages network resources.
+2. **`netsh`**: Configures network interfaces and provides other network-related functions.
+3. **`ftp`**: Transfers files to and from a remote computer running an FTP server.
+4. **`telnet`**: Communicates with another host using the TELNET protocol.
+
+### Miscellaneous Commands
+1. **`assoc`**: Displays or modifies file extension associations.
+2. **`fc`**: File Compare - Compares two files or sets of files and displays the differences.
+3. **`find`**: Searches for a text string in a file or files.
+4. **`findstr`**: Searches for strings in files.
+5. **`tree`**: Graphically displays the directory structure of a drive or path.
+6. **`fc`**: Compares two files and shows the differences.
+7. **`title`**: Sets the window title for the command prompt window.
+8. **`ver`**: Displays the Windows version.
+9. **`date`**: Displays or sets the date.
+10. **`time`**: Displays or sets the time.
+
+This list covers many of the basic commands you might use in the Windows Command Prompt.
